@@ -26,6 +26,7 @@
       "image_url": "./WEB/javascript.png",
       "details": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior."
     },
+
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
       "category_id": "02",
@@ -43,5 +44,54 @@
       "title": "This is about Android Game Development",
       "image_url": "./Android/Game.jpg",
       "details": "Game development: The act of creating a game; sometimes referred to as “gamedev.” The game development process typically requires input from one or more game designers, artists, programmers, animators, testers, project managers, etc., though some games have been created by just one or two game developers."
-    }
+    },
+
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "category_id": "03",
+        "total_view": 685,
+        "rating": "3.5",
+        "title": "This is about IOS Development",
+        "image_url": "./Android/IOS-1.png",
+        "details": "Simply put, iOS development is the process of creating applications for Apple’s mobile operating system—the operating system used by the iPhone and iPod Touch. In this most fundamental sense, it has a lot in common with other types of software or app development, but there are a few key differences.One of the things that distinguish mobile app development from most other software is that, because apps are designed to run on mobile devices with more limited power, they rely on a network connection to take advantage of remote computing resources. To give one example: there are translation programs you can load onto a desktop computer and run locally including their massive databases. By contrast in a translation program written for iOS or another mobile platform, the installable software bundle—the app that lives on our phone—exists primarily to create a touchpoint for the user to interface with; the app sends a query to a remote platform that performs the actual translation and the result is relayed back to the app for the user to read."
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+        "category_id": "03",
+        "total_view": 462,
+        "rating": "5",
+        "title": "This is about IOS Developer",
+        "image_url": "./Android/IOS-2.jpg",
+        "details": "Creating an iOS app involves many steps; exactly which steps an iOS Developer works on will depend largely on their level of seniority, the size of their company, and the scope of the app itself. A Senior iOS Developer, for example, is much more likely to be involved in the initial research and conceptualization phases, while a Junior iOS Developer working in a large firm might have a list of responsibilities limited to just one or two phases, or contribute to a single feature within a single phase. Of course, it’s also quite possible to develop an app single-handedly, in which case an iOS Developer would oversee all of the following steps themselves. That being said, the development of an iOS product typically involves the following stages."
+      },
+
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6h",
+        "category_id": "04",
+        "total_view": 685,
+        "rating": "2.5",
+        "title": "This is about Machine Learning",
+        "image_url": "./MachineLearning/What-is-Machine-Learning.jpg",
+        "details": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.Machine learning is an important component of the growing field of data science. Through the use of statistical methods, algorithms are trained to make classifications or predictions, and to uncover key insights in data mining projects. These insights subsequently drive decision making within applications and businesses, ideally impacting key growth metrics. As big data continues to expand and grow, the market demand for data scientists will increase. They will be required to help identify the most relevant business questions and the data to answer them."
+      },
+
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6i",
+        "category_id": "05",
+        "total_view": 345,
+        "rating": "4.5",
+        "title": "This is about Robotics",
+        "image_url": "./Robotics/robotics.jpg",
+        "details": "Robotics is a branch of engineering that involves the conception, design, manufacture and operation of robots. The objective of the robotics field is to create intelligent machines that can assist humans in a variety of ways.Robotics can take on a number of forms. A robot may resemble a human, or it may be in the form of a robotic application, such as robotic process automation (RPA), which simulates how humans engage with software to perform repetitive, rules-based tasks. While the field of robotics and exploration of the potential uses and functionality of robots have grown substantially in the 20th century, the idea is certainly not a new one."
+      },
+
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6i",
+        "category_id": "06",
+        "total_view": 875,
+        "rating": "5",
+        "title": "This is about A Programmer",
+        "image_url": "./Programmer/programmer.jpg",
+        "details": "Computer programmers provide valuable services across economic sectors, creating code for software and computer applications and programs. These professionals work in information technology, academia, government service, and medical fields -- with additional career opportunities as independent and contract workers.Requirements for computer programming positions vary, but with advanced education and credentials, programming professionals increase their earning potential and career options. To expand their prospects, computer programmers can network through professional and career resources. Computer programmers should also consider how location factors into their job options."
+      }
 ]
