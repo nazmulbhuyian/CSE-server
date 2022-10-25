@@ -1,0 +1,47 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "total_view": 488,
+      "rating": "4.5",
+      "title": "This is about Web Development and HTML",
+      "image_url": "./WEB/HTML.png",
+      "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages.HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web pageHTML consists of a series of elementsHTML elements tell the browser how to display the contentHTML elements label pieces of content such as this is a heading, this is a paragraph, this is a link, etc."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "01",
+      "total_view": 650,
+      "rating": "2.5",
+      "title": "This is about CSS",
+      "image_url": "./WEB/CSS.jpg",
+      "details": "CSS can be used for very basic document text styling — for example, for changing the color and size of headings and links. It can be used to create a layout — for example, turning a single column of text into a layout with a main content area and a sidebar for related information. It can even be used for effects such as animation. Have a look at the links in this paragraph for specific examples."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+      "category_id": "01",
+      "total_view": 870,
+      "rating": "5",
+      "title": "This is about Javascript",
+      "image_url": "./WEB/javascript.png",
+      "details": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+      "category_id": "02",
+      "total_view": 420,
+      "rating": "4.5",
+      "title": "This is about Android Development",
+      "image_url": "./Android/App.jpg",
+      "details": "Any application developed to be supported by the Android Operating system using the android software development kit (sdk) on android studio is the process of android development. The open-source operating system designed by Google especially for mobiles is Android. Android OS has been developed using Linux Kernel. Because of the ability of easily modifiable (as its open source), most of the android developers have used different GUIs even when all of them use the same basic operating system. The open source code used for the development of android applications is Android Open Source Project (AOSP),"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+      "category_id": "02",
+      "total_view": 420,
+      "rating": "4.5",
+      "title": "This is about Android Game Development",
+      "image_url": "./Android/Game.jpg",
+      "details": "Game development: The act of creating a game; sometimes referred to as “gamedev.” The game development process typically requires input from one or more game designers, artists, programmers, animators, testers, project managers, etc., though some games have been created by just one or two game developers."
+    }
+]

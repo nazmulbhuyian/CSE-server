@@ -1,0 +1,44 @@
+[
+    {
+      "id": "01",
+      "image_url": "./Catagory/WEB.jpg",
+      "name": "Web Development",
+      "rating": "4.5",
+      "total_view": 950
+    },
+    {
+      "id": "02",
+      "image_url": "./Catagory/Android.avif",
+      "name": "Android Development",
+      "rating": "4.5",
+      "total_view": 355
+    },
+    {
+      "id": "03",
+      "image_url": "./Catagory/IOS.png",
+      "name": "IOS Development",
+      "rating": "2",
+      "total_view": 488
+    },
+    {
+      "id": "04",
+      "image_url": "./Catagory/Machine Learning.jpg",
+      "name": "Machine Learning",
+      "rating": "4.5",
+      "total_view": 468
+    },
+    {
+      "id": "05",
+      "image_url": "./Catagory/Robotics.jpg",
+      "name": "Robotics",
+      "rating": "3.5",
+      "total_view": 865
+    },
+    {
+      "id": "06",
+      "image_url": "./Catagory/Programmer.jpeg",
+      "name": "A Programmer",
+      "rating": "5",
+      "total_view": 742
+    }
+  ]
