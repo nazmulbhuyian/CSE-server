@@ -14,17 +14,17 @@ app.get('/', (req, res) => {
 })
 
 
-// app.get('/course/:id', (req, res) =>{
-//     const id = req.params.id;
-//     const descriptions = description.filter(n => n.category_id === id);
-//     res.send(descriptions);
-// })
-
-app.get('/catagory/:id', (req, res) =>{
+app.get('/course/:id', (req, res) =>{
     const id = req.params.id;
-    const catagorys = catagory.filter(n => n.category_id === id);
-    res.send(catagorys)
+    const descriptions = description.filter(n => n.category_id === id);
+    res.send(descriptions);
 })
+
+// app.get('/catagory/:id', (req, res) =>{
+//     const id = req.params.id;
+//     const catagorys = catagory.filter(n => n.category_id === id);
+//     res.send(catagorys)
+// })
 
 app.get('/course', (req, res) =>{
     res.send(course)
